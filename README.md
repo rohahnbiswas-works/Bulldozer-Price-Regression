@@ -1,0 +1,2 @@
+# Bulldozer-Price-Regression
+This ML regression model was created by me as a part of learning Machine Learning. This model utilizes several concepts of regression supervised learning and utilizes schikit-learn library. This model trains on a bulldozer prices related dataset and creates a regression equation to predict bulldozer prices based on various features  etc.
